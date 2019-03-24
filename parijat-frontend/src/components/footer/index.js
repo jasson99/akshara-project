@@ -33,7 +33,7 @@ const Footer = () => (
 					</a>
 				</li>
         <li className={style.Footer__ListItem}>
-          <a href="fair-use">उचित उपयोग</a>
+          <a href="/fair-use">उचित उपयोग</a>
         </li>
 			</ul>
 		</div>
