@@ -11,4 +11,4 @@ before_script:
   - yarn
   - yarn dev &
   - sleep 30
-script: yarn test:e2e test/acceptance/features
+script: yarn test:e2e test/acceptance/featur
